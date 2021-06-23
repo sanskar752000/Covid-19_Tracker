@@ -1,0 +1,15 @@
+.navbar {
+    justify-content: space-between;
+}
+
+span{
+    padding-left: 1rem;
+}
+
+.options{
+    margin-right: 10px;
+}
+
+.top-self{
+    margin-bottom: 24px;
+}
